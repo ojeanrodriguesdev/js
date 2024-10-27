@@ -1,36 +1,73 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 LeetCode Solutions with TypeScript and Next.js 🚀
 
-## Getting Started
+![Next.js](https://img.shields.io/badge/Next.js-15.0.1-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94%EF%B8%8F-blue) ![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-orange)
 
-First, run the development server:
+Welcome to the **LeetCode Solutions** repository, where we solve JavaScript problems from LeetCode using **TypeScript** in a **Next.js** framework. This project bridges coding challenges and real-world development, offering a modern approach to practicing programming skills.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 About the Project
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🔧 **TypeScript & Next.js**:  
+- Solutions focus on implementing LeetCode problems using TypeScript, ensuring type safety and seamless integration with Next.js components.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🔄 **Version**:  
+- Currently supports **Next.js 15.0.1**. The repository will be continuously updated to match newer versions.
 
-## Learn More
+💡 **Problem Focus**:  
+- Covers basic to intermediate JavaScript problems adapted to a web development context.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📂 Project Structure
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- **Component-Based Solutions**: Modular and scalable code for each LeetCode problem.
+- **State Management & Local Storage**: Implements `useState` and `useEffect` to handle state, with persistent data storage.
+- **Responsive UI with Tailwind CSS**: Clean and organized interfaces for a consistent visual experience.
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🚀 Getting Started
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ojeanrodriguesdev/js
+2. **Install dependencies**:
+    ```bash
+    npm install
+3. **Run the development server**:
+   ```bash
+   npm run dev
+Access the app at http://localhost:3000.
+
+
+
+## 🌱 Contributing
+
+#### **We welcome contributions! Follow the steps below to add new solutions**:
+
+##### **Fork the repository.**
+
+1. **Create a new branch**:
+   ```bash
+   git checkout -b feature/new-solution
+2. **Commit your changes**:
+   ```bash
+   git commit -m "Add solution for [problem]"
+3. **Push your branch**:
+   ```bash
+   git push origin feature/new-solution
+---
+##### Open a pull request.
+
+## 📈 Future Updates
+ **🌟 Continuous updates to match newer versions of Next.js and TypeScript.**
+	
+**🧩 Adding solutions for Medium and Hard LeetCode problems.**
+
+---
+
+## Autores
+
+**Feel free to follow this repository for updates or reach out at ojeanrodriguesdev@gmail.com for collaborations and inquiries.**
+
