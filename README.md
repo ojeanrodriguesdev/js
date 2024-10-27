@@ -63,7 +63,7 @@ Access the app at http://localhost:3000.
 ## 📈 Future Updates
  **🌟 Continuous updates to match newer versions of Next.js and TypeScript.**
 	
-**🧩 Adding solutions for Medium and Hard LeetCode problems.**
+**🧩 Adding solutions for Easy and Medium LeetCode problems.**
 
 ---
 
